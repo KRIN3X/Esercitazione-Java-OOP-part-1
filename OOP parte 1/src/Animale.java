@@ -1,4 +1,4 @@
-package it.esercitazione.animali;
+
 
 public class Animale {
     private String nome;

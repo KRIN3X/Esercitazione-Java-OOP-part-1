@@ -1,4 +1,4 @@
-package it.esercitazione.animali;
+
 
 public class Gatto extends Animale {
     private boolean domestico;

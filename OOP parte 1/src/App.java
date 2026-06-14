@@ -1,4 +1,3 @@
-package it.esercitazione.animali;
 
 public class App {
     public static void main(String[] args) {

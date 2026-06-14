@@ -1,4 +1,4 @@
-package it.esercitazione.animali;
+
 
 public class Cane extends Animale {
     private String razza;
